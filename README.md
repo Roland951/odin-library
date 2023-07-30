@@ -1,0 +1,1 @@
+This is a sample of a library and the eighth exercise following The Odin Project course. Skills: HTML, CSS, Flexbox.
